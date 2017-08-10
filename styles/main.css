@@ -20,12 +20,9 @@ body .jumbotron h1 {
     font-size: 80px;
 }
 
-body .jumbotron a {
-    margin-top: 20px;
-}
-
 .jumbotron .btn {
     color: limegreen;
+    margin-top: 20px;
     border-color: limegreen;
     font-size: 1.5em;
     min-width: 220px;
