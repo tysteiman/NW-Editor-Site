@@ -1,0 +1,32 @@
+body {
+    background: #191919;
+    color: grey;
+}
+
+body .jumbotron {
+    background-color: black;
+    border-radius: 0;
+    color: lightgrey;
+    text-align: center;
+}
+
+body .jumbotron h1 {
+    font-size: 80px;
+}
+
+body .jumbotron a {
+    margin-top: 20px;
+}
+
+.jumbotron .btn {
+    color: limegreen;
+    border-color: limegreen;
+    font-size: 1.5em;
+    min-width: 220px;
+}
+
+.btn-outline-primary:hover {
+    color: indianred;
+    border-color: indianred;
+    background-color: black;
+}
