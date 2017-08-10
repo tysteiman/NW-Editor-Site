@@ -3,6 +3,15 @@ body {
     color: grey;
 }
 
+body #cursor {
+    position: absolute;
+    width: 14px;
+    height: 30px;
+    background: lime;
+    left: 10px;
+    top: 10px;
+}
+
 body #fork-me-banner {
     position: absolute;
     right: 0;
