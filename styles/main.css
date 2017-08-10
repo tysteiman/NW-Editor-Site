@@ -3,6 +3,11 @@ body {
     color: grey;
 }
 
+body #fork-me-banner {
+    position: absolute;
+    right: 0;
+}
+
 body .jumbotron {
     background-color: black;
     border-radius: 0;
